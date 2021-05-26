@@ -1,0 +1,10 @@
+body {background: #ADD8E6;
+      text-align: justify;
+      width: 70%;
+      padding-left: 10%
+      }
+.tabbble {background: #FFDAB9
+          }
+.leftfloat {float: left;
+            margin: 0 8px 0 0
+            }
